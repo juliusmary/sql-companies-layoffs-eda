@@ -16,4 +16,4 @@ The analysis focuses on companies, industries, countries, and time trends.
 - Top 5 companies by layoffs per year
 
 ## File
-- exploratory_data_analysis.sql
+- Exploratory Data Analysis - Global Companies Layoffs.sql
